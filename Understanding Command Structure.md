@@ -39,4 +39,4 @@ date -u -> 날짜가 나오는데 UTC에 해당하는 옵션이 적용되어 그
    
 당연히 command는 case sensitive이니까 date != dAte != DATE != Date이다.   
 
-cal -A 1 12 2017을 입력하면 -A는 After와 같은 의미가 있어서 12월, 내년 1월까지 나오게 된다.   
+cal -A 1 12 2017을 입력하면 -A는 After와 같은 의미가 있어서 12월, 내년 1월까지 나오게 된다.     
